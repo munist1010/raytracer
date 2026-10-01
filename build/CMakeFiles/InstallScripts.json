@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"Z:/c++/raytracer/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

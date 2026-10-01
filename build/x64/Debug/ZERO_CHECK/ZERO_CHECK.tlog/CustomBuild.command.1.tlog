@@ -1,0 +1,10 @@
+^Z:\C++\RAYTRACER\BUILD\CMAKEFILES\318061BD8FC59FF277AA021B9A453355\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SZ:/c++/raytracer -BZ:/c++/raytracer/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file Z:/c++/raytracer/build/raytracing.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

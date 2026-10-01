@@ -1,0 +1,3 @@
+Z:/c++/raytracer/build/CMakeFiles/raytracing.dir
+Z:/c++/raytracer/build/CMakeFiles/ALL_BUILD.dir
+Z:/c++/raytracer/build/CMakeFiles/ZERO_CHECK.dir
